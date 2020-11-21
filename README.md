@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='266' height='621' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='276' height='621' alt='Video Walkthrough' />
 
 ## Notes
 
