@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 * [ ] Splash Screen
 * [ ] Updated UI
-* [x] Google Ad (Bottom of Edit Activty Page) #Monetized
+* [x] Ad with Google AdMob (Bottom of Edit Activty Page)
 
 ## Video Walkthrough
 
