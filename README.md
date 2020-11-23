@@ -20,9 +20,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Splash Screen
-* [ ] Updated UI
+* [x] Splash Screen
 * [x] Ad with Google AdMob (Bottom of Edit Activity Page)
+* [ ] Updated UI
 
 ## Video Walkthrough
 
