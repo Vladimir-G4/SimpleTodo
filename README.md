@@ -8,18 +8,12 @@ Time spent: **10** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 * [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
-
-The following **optional** features are implemented:
-
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
-
-The following **additional** features are implemented:
-
 * [x] Splash Screen
 * [x] Ad with Google AdMob (Bottom of Edit Activity Page)
 * [ ] Updated UI
